@@ -28,7 +28,7 @@ While I'm not actively seeking collaborations at the moment, I'm always open to 
 
 Currently, I don't have any specific requests for help, but I'm always eager to engage in knowledge sharing and mutual learning.
 
-## 📫 How to reach me:
+## 📫 How to reach me ...
 
 Got something to share or just want to say hi? You can email me at [kyle@balena.io](mailto:kyle@balena.io).
 
@@ -43,6 +43,6 @@ Got something to share or just want to say hi? You can email me at [kyle@balena.
 - Love for dogs and houseplants.
 - Playing billiards - a game of focus and precision.
 
-## ⚡ Fun fact:
+## ⚡ Fun fact about me ...
 
-[Share a unique or interesting fact about yourself]
+I'm almost entirely self-taught, having honed my skills through a series of personal projects. This hands-on approach has been my pathway to learning and mastering new technologies, reflecting my dedication to continuous self-improvement and practical problem-solving.
