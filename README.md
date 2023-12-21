@@ -22,15 +22,15 @@ I'm diving into orchestrating ephemeral microVMs for container isolation, with a
 
 ## 👯 I’m looking to collaborate on ...
 
-[This section can include any open-source projects or ideas you want to collaborate on]
+While I'm not actively seeking collaborations at the moment, I'm always open to interesting ideas and discussions. Feel free to reach out!
 
 ## 🤔 I’m looking for help with ...
 
-[If there's something specific you're seeking assistance with, mention it here]
+Currently, I don't have any specific requests for help, but I'm always eager to engage in knowledge sharing and mutual learning.
 
 ## 📫 How to reach me:
 
-[Include your preferred contact methods or links]
+Got something to share or just want to say hi? You can email me at [kyle@balena.io](mailto:kyle@balena.io).
 
 ## 😄 Other interests ...
 
