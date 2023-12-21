@@ -1,7 +1,5 @@
 # Kyle Harding
 
-Pronouns: He/Him
-
 Welcome to my GitHub! I'm Kyle, a passionate technologist and problem-solver. I thrive on challenges and love sharing my experiences and knowledge.
 
 ## 🔭 I’m currently working on ...
