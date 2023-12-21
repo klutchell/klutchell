@@ -18,7 +18,7 @@ Building innovative products at [balena.io](https://balena.io)! My focus is on c
 
 ## 🌱 I’m currently learning ...
 
-[Here, you can add any new skills or areas you are currently exploring]
+I'm diving into orchestrating ephemeral microVMs for container isolation, with a focus on thin provisioning. My learning path is centered on optimizing security and resource efficiency. This involves understanding how to dynamically manage microVMs for enhanced container security, while ensuring optimal resource utilization and system performance.
 
 ## 👯 I’m looking to collaborate on ...
 
